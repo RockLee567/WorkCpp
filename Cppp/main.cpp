@@ -11,5 +11,8 @@ int main()
 
     Teacher *t = new Teacher("Hanh" , "Nu" , 2500) ; 
     t->display(); 
+
+    Teacher *t = new Teacher("Hanh" , "Nu" , 2500) ; 
+    t->display(); 
     return 0;
 }   
