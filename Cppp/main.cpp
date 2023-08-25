@@ -14,5 +14,7 @@ int main()
     Teacher *t = new Teacher("Hanh", "Nu", 2500);
     t->display();
 
+    cout << "Tu do" << endl;
+
     return 0;
 }
