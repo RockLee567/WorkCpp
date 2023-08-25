@@ -14,5 +14,9 @@ int main()
     Teacher *t = new Teacher("Hanh", "Nu", 2500);
     t->display();
 
+
+
+    fffff
+
     return 0;
 }
